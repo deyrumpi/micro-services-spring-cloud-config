@@ -9,4 +9,4 @@ eureka:
     hostname: localhost
     
 bank-account-service:
-	maxBalance: 10001
+  maxBalance: 123
